@@ -1,0 +1,175 @@
+.prvi {
+    background-color: rgb(164, 177, 184);
+    text-align: center;
+    color: white;
+}
+
+.balans{
+    height:40px;
+    width: 30%;
+}
+
+.prihod{display: inline-block;
+    width: 30%;
+    height: 50px;
+background-color: rgb(62, 169, 184);
+
+}
+
+.rashod {display:inline-block;
+    width: 30%;
+    height: 50px;
+    background-color: rgb(206, 34, 34);
+position:relative;}
+
+.prihod p, .rashod p {display: inline;
+    position:relative;
+    float: left;
+    text-align: left;
+    margin: 15px 5px 5px 15px;
+}
+
+.prihod span, .rashod span {display: inline;
+    text-align: right;
+    float: right;
+margin: 15px 5px 15px 5px;}
+
+.drugi {
+    background-color: rgba(248, 248, 255, 0.918);
+}
+
+.inputi{
+    text-align: center;
+}
+
+#odabir {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+} 
+
+#opis {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 25%;
+}
+
+#iznos {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 10%;
+    margin: 5px;
+}
+
+.inputi button {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid rgb(206, 34, 34);
+    color: rgb(206, 34, 34);
+    margin: 5px;
+    margin-left: 15px;
+}
+
+.prihodiIspis, .rashodiIspis {
+display: inline-block;
+width:30%;
+
+}
+
+.prihodiIspis {
+    display: block;
+    float: left;
+    color: rgb(62, 169, 184);
+    margin: auto;
+    margin-left: 13%;
+    margin-right: 3%;
+}
+.rashodiIspis {
+    display: block;
+    float: right;
+    color: rgb(206, 34, 34);
+    margin: auto;
+    margin-right: 13%;
+    margin-left: 3%;
+}
+
+.jedanPrihod, .jedanRashod {
+    width: 100%;
+}
+
+.jedanRashod p, .jedanPrihod p {
+
+display: block;
+text-align: left;
+float: left;
+margin: 5px 5px 5px 15px;
+}
+.jedanRashod span, .jedanPrihod span{
+    display: block;
+    text-align: right;
+    float: right;
+margin: 5px 5px 15px 5px;
+}
+
+.btnDel {
+    height: 20px;
+    width: 20px;
+    border: 1px rgb(164, 177, 184);
+    border-radius: 50%;
+    background: white ;
+    text-align: center;
+    color: rgb(164, 177, 184);
+    display: none;
+}
+
+.items:hover .btnDel {
+    
+   display: inline-block;
+}
+
+#proc {
+    border: 1px solid rgb(206, 34, 34);
+    border-radius: 5px;
+    color: rgb(206,34,34);
+    background-color: rgb(221, 182, 182);
+  display: inline;
+  text-align: center;
+  height: fit-content;
+  width: fit-content;
+    margin: 0px 5px 5px 5px;
+    font-size: .6rem;
+padding: 5px;
+}
+
+#procUk {
+
+    border: 1px solid rgb(206, 34, 34);
+    border-radius: 5px;
+    color: rgb(206,34,34);
+    background-color: rgb(221, 182, 182);
+  display: inline;
+  text-align: center;
+  height: fit-content;
+  width: fit-content;
+    margin: 0px 5px 5px 5px;
+    font-size: .6rem;
+    padding: 5px;
+}
+
+.nijeOd {
+    color: red;
+}
+
+.balans {
+    width: 100%;
+    display: block;
+    font-size: 3rem;
+    text-align: center;
+}
+

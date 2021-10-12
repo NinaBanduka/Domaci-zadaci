@@ -1,0 +1,48 @@
+header {
+text-align: center;
+
+}
+
+li {
+display: inline-block;
+width: fit-content;
+
+
+}
+
+aside {
+    width: 25%;
+    display: inline-block;
+   margin: 0;
+    
+}
+
+
+em {color: red;}
+
+label[for=ime], label[for=prezime], label[for=about], label[for=city] {
+    color:red
+}
+
+p.gender, p.course {
+color: red;
+
+}
+
+input[type=checkbox] {
+    display: block;
+   
+}
+
+main {
+    display: inline-block;
+    width: 65%;
+}
+
+main img {width: 900px;
+    height: 450px;}
+
+input[type=checkbox] {
+    display: inline-block;
+}
+

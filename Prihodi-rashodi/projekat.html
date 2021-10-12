@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projekat</title>
+    <link rel="stylesheet" href="projekat.css">
+</head>
+<body>
+    
+<div class="prvi">
+<p>Доступан буџет у новембру 2019:</p>
+<p class="balans">              </p>
+
+<div class="prihod"> 
+<p> Приход </p>
+<!-- <span>   ovde ce biti uk.prihod  </span> -->
+</div>
+
+<br>
+
+<div class="rashod"> 
+    <p> Расход </p>
+    <!-- <span>   ovde ce biti uk.rashod <span id="proc">proc</span> </span> -->
+    </div>
+
+</div>
+
+<div class="drugi">
+
+<div class="inputi">
+
+    <select name="odabir" id="odabir" class="">
+        <option value="0" selected="selected" disabled> - </option>
+        <option value="1" id="jedan"> Приход </option>
+        <option value="2" id="dva"> Расход </option>
+            </select>
+        
+           <input type="text" name="opis" id="opis" placeholder="Опис">
+        
+        <input type="text" name="iznos" id="iznos" placeholder="Износ">
+        
+        <button id="unesi"> &#10003 </button>
+
+</div>
+
+</div>
+
+<div class="prihodiIspis">
+    <p>ПРИХОДИ</p>
+    <hr>
+    
+        <!-- <div class="jedanPrihod">
+            <p> input tekst </p>
+            <span>   input iznos </span>  
+        </div> -->
+      
+    
+    
+    </div>
+    
+    <div class="rashodiIspis">
+        <p>РАСХОДИ</p>
+    
+        <hr>
+        <div class="jedanRashod">
+            <!-- <p> input tekst </p>
+            <span>   input iznos <span id="proc">proc</span>  </span>   -->
+        </div>
+
+
+</div>
+
+
+
+
+
+<script type="module" src="projekat.js"></script>
+
+</body>
+</html>

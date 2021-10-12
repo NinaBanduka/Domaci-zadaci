@@ -1,0 +1,142 @@
+{
+  "product-list": [
+    {
+      "name": "Bouillion - Fish",
+      "price": 385,
+      "info": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "id": "ca14c80c-c15f-485f-a3ac-9b52b4d12415"
+    },
+    {
+      "name": "Spice - Greek 1 Step",
+      "price": 651,
+      "info": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "id": "d77c4dc8-75f3-4e5c-8db1-41d4885aa612"
+    },
+    {
+      "name": "Wiberg Super Cure",
+      "price": 370,
+      "info": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+      "id": "52fd6fda-5336-4248-94c8-43e7c8bda6e9"
+    },
+    {
+      "name": "Pastry - Choclate Baked",
+      "price": 114,
+      "info": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+      "id": "2fabc50e-1609-40dc-b506-594b8c643679"
+    },
+    {
+      "name": "Ginsing - Fresh",
+      "price": 425,
+      "info": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "id": "e7ce1df6-a583-4ade-88b9-db0387de6bc0"
+    },
+    {
+      "name": "Butter Ripple - Phillips",
+      "price": 699,
+      "info": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+      "id": "cee1ba9c-8af6-4e80-a5f4-2750e15d024a"
+    },
+    {
+      "name": "Wine - Fat Bastard Merlot",
+      "price": 178,
+      "info": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "id": "9564a194-07ac-4c52-a9c6-cd24417855c2"
+    },
+    {
+      "name": "Tomatoes Tear Drop",
+      "price": 316,
+      "info": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+      "id": "42146e51-a1a9-4cd2-a579-e488147304cc"
+    },
+    {
+      "name": "Longos - Assorted Sandwich",
+      "price": 162,
+      "info": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "id": "dc34fcd6-290e-41c3-9252-2719086113c5"
+    },
+    {
+      "name": "Foil Cont Round",
+      "price": 306,
+      "info": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+      "id": "47e62cea-3038-48f6-b7f1-2cd895d8bf00"
+    },
+    {
+      "name": "fsfs",
+      "price": "4342",
+      "info": "fsfss",
+      "id": "oR3Eps_"
+    },
+    {
+      "name": "fsfs",
+      "price": "4342",
+      "info": "fsfss",
+      "id": "OmObCqU"
+    },
+    {
+      "name": "dbgdgd",
+      "price": "4242",
+      "info": "fsfsfs",
+      "id": "Qs6koXh"
+    },
+    {
+      "name": "NOVI",
+      "price": "500",
+      "info": "NSJ",
+      "id": "JjvxXRC"
+    },
+    {
+      "name": "Coffee",
+      "price": "500",
+      "info": "NewInfo",
+      "id": "Ttvd5qX"
+    },
+    {
+      "name": "Product",
+      "price": "700",
+      "info": "Some additional information about product",
+      "id": "6pOWYY0"
+    },
+    {
+      "name": "Zelena salata",
+      "price": "100",
+      "info": "Iz Spanije",
+      "id": "A90SInK"
+    },
+    {
+      "name": "Pepper",
+      "price": "200",
+      "info": "Grounded",
+      "id": "St2urnu"
+    },
+    {
+      "name": "Proizvod2",
+      "price": "60",
+      "info": "Dodatni",
+      "id": "dDKSbo1"
+    },
+    {
+      "name": "Proizvod2",
+      "price": "60",
+      "info": "Dodatni",
+      "id": "FODFAVu"
+    },
+    {
+      "name": "Tomatoes",
+      "price": "150",
+      "info": "Red and green",
+      "id": "3uYpbkG"
+    },
+    {
+      "name": "Tomatoes",
+      "price": "150",
+      "info": "Red and green",
+      "id": "D_pz-T7"
+    },
+    {
+      "name": "Cucumbers",
+      "price": "120",
+      "info": "From Peru",
+      "id": "ZArNvDM"
+    }
+  ]
+}
